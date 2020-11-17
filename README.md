@@ -138,3 +138,5 @@ Maintained by [JINGJING JIANG](https://github.com/jingjing12110). Last update on
 
 [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490v3), EMNLP 2019, [[code](https://github.com/airsplay/lxmert)]
 
+## [Recent Advances in Vision and Language PreTrained Models (VL-PTMs)](https://github.com/jingjing12110/awesome-vision-language-pretraining-papers)
+
