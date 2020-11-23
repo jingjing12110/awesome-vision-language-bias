@@ -24,6 +24,8 @@ Maintained by [JINGJING JIANG](https://github.com/jingjing12110). Last update on
 
 [Counterfactual Samples Synthesizing for Robust Visual Question Answering](https://arxiv.org/abs/2003.06576v1), CVPR 2020, [[code](https://github.com/yanxinzju/CSS-VQA?utm_source=catalyzex.com)]
 
+[Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing](https://openaccess.thecvf.com/content_CVPR_2020/papers/Agarwal_Towards_Causal_VQA_Revealing_and_Reducing_Spurious_Correlations_by_Invariant_CVPR_2020_paper.pdf), CVPR 2020
+
 [Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder](https://arxiv.org/abs/2007.06198), ECCV 2020
 
 [Learning to Model and Ignore Dataset Bias with Mixed Capacity Ensembles](https://arxiv.org/abs/2011.03856), EMNLP 2020
@@ -49,6 +51,8 @@ Maintained by [JINGJING JIANG](https://github.com/jingjing12110). Last update on
 [Answer Them All! Toward Universal Visual Question Answering Models](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shrestha_Answer_Them_All_Toward_Universal_Visual_Question_Answering_Models_CVPR_2019_paper.pdf), CVPR 2019
 
 [Explicit Bias Discovery in Visual Question Answering Models](https://openaccess.thecvf.com/content_CVPR_2019/papers/Manjunatha_Explicit_Bias_Discovery_in_Visual_Question_Answering_Models_CVPR_2019_paper.pdf), CVPR 2019
+
+[Question-Conditioned Counterfactual Image Generation for VQA](https://arxiv.org/abs/1911.06352), CVPRW 2019
 
 [Overcoming Language Priors in Visual Question Answering with Adversarial Regularization](https://arxiv.org/abs/1810.03649), NeurIPS 2018
 
