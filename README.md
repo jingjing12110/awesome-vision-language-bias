@@ -24,7 +24,7 @@ Maintained by [JINGJING JIANG](https://github.com/jingjing12110). Last update on
 
 [Counterfactual Samples Synthesizing for Robust Visual Question Answering](https://arxiv.org/abs/2003.06576v1), CVPR 2020, [[code](https://github.com/yanxinzju/CSS-VQA?utm_source=catalyzex.com)]
 
-[Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing](https://openaccess.thecvf.com/content_CVPR_2020/papers/Agarwal_Towards_Causal_VQA_Revealing_and_Reducing_Spurious_Correlations_by_Invariant_CVPR_2020_paper.pdf), CVPR 2020
+[Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing](https://openaccess.thecvf.com/content_CVPR_2020/papers/Agarwal_Towards_Causal_VQA_Revealing_and_Reducing_Spurious_Correlations_by_Invariant_CVPR_2020_paper.pdf), CVPR 2020, [[project](https://rakshithshetty.github.io/CausalVQA/)]
 
 [Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder](https://arxiv.org/abs/2007.06198), ECCV 2020
 
