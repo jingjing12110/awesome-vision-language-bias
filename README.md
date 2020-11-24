@@ -60,6 +60,8 @@ Maintained by [JINGJING JIANG](https://github.com/jingjing12110). Last update on
 
 [Learning Answer Embeddings for Visual Question Answering](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Learning_Answer_Embeddings_CVPR_2018_paper.pdf), CVPR 2018, [[code](https://github.com/hexiang-hu/answer_embedding)]
 
+[Cross-Dataset Adaptation for Visual Question Answering](https://arxiv.org/abs/1806.03726), CVPR 2018
+
 [Don't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering](https://arxiv.org/abs/1712.00377), CVPR 2018, [[code](https://github.com/AishwaryaAgrawal/GVQA?utm_source=catalyzex.com)]
 
 [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering](https://arxiv.org/abs/1612.00837), CVPR 2017, [[code](https://github.com/necla-ml/SNLI-VE?utm_source=catalyzex.com)], [[project](https://visualqa.org/)]
