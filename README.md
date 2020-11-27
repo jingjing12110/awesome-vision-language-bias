@@ -20,6 +20,8 @@ Maintained by [JINGJING JIANG](https://github.com/jingjing12110). Last update on
 
 [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315), arXiv 2006
 
+[Unshuffling Data for Improved Generalization](https://arxiv.org/abs/2002.11894), arXiv 2002
+
 [Roses are Red, Violets are Blue... But Should VQA expect Them To?](https://arxiv.org/abs/2006.05121), BMVC 2020, [[code](https://github.com/gqaood/GQA-OOD?utm_source=catalyzex.com)]
 
 [Counterfactual Samples Synthesizing for Robust Visual Question Answering](https://arxiv.org/abs/2003.06576v1), CVPR 2020, [[code](https://github.com/yanxinzju/CSS-VQA?utm_source=catalyzex.com)]
